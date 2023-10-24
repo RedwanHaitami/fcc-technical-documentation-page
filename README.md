@@ -10,7 +10,7 @@ HTML technical documentation webpage project created for freeCodeCamp Responsive
 
 ## Live Demo
 
-Check it out on [Github Web Pages]()<br>
+Check it out on [Github Web Pages](https://redwanhaitami.github.io/fcc-technical-documentation-page/)<br>
 <br>
 
 ## Objective
