@@ -50,6 +50,8 @@ header + p {
     position: fixed;
     top: 0;
     left: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 #navbar header {
     padding: 40px;
@@ -61,8 +63,6 @@ header + p {
     list-style: none;
     padding: 0;
     margin: 0;
-    overflow-y: auto;
-    overflow-x: hidden;
 }
 #navbar ul li {
     width: 100%;
